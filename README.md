@@ -11,19 +11,7 @@
 </p>
 
 
-## 📊 GitHub Stats & Metrics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jaatxog&show_icons=true&theme=react&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaatxog&layout=compact&theme=react&hide_border=true" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/grade?username=jaatxog&theme=github_dark" height="170"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jaatxog&theme=github_dark" height="170"/>
-</p>
-
----
 
 ## 🧪 DevOps Toolset & Skills
 
