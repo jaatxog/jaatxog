@@ -10,15 +10,6 @@
   <img src="https://img.shields.io/badge/Ansible-Automation-red?style=flat-square&logo=ansible" />
 </p>
 
----
-
-## 🚀 About Me
-- DevOps enthusiast focused on automation & infrastructure  
-- Working on Asterisk / Vicidial, RHEL systems, AlmaLinux  
-- Interested in CI/CD, monitoring, cloud, and scaling systems  
-- Always learning, building, and optimizing
-
----
 
 ## 📊 GitHub Stats & Metrics
 
